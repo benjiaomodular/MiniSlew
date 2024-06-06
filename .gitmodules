@@ -1,0 +1,3 @@
+[submodule "EuroPanelMaker"]
+	path = EuroPanelMaker
+	url = git@github.com:benjiaomodular/EuroPanelMaker.git
